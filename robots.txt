@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://magic-wizard.github.io/sitemap.xml 
